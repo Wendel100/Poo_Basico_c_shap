@@ -1,0 +1,14 @@
+C:\Users\darkr\Desktop\PooC_sharp\bin\Debug\net8.0\PooC_sharp.exe
+C:\Users\darkr\Desktop\PooC_sharp\bin\Debug\net8.0\PooC_sharp.deps.json
+C:\Users\darkr\Desktop\PooC_sharp\bin\Debug\net8.0\PooC_sharp.runtimeconfig.json
+C:\Users\darkr\Desktop\PooC_sharp\bin\Debug\net8.0\PooC_sharp.dll
+C:\Users\darkr\Desktop\PooC_sharp\bin\Debug\net8.0\PooC_sharp.pdb
+C:\Users\darkr\Desktop\PooC_sharp\obj\Debug\net8.0\PooC_sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darkr\Desktop\PooC_sharp\obj\Debug\net8.0\PooC_sharp.AssemblyInfoInputs.cache
+C:\Users\darkr\Desktop\PooC_sharp\obj\Debug\net8.0\PooC_sharp.AssemblyInfo.cs
+C:\Users\darkr\Desktop\PooC_sharp\obj\Debug\net8.0\PooC_sharp.csproj.CoreCompileInputs.cache
+C:\Users\darkr\Desktop\PooC_sharp\obj\Debug\net8.0\PooC_sharp.dll
+C:\Users\darkr\Desktop\PooC_sharp\obj\Debug\net8.0\refint\PooC_sharp.dll
+C:\Users\darkr\Desktop\PooC_sharp\obj\Debug\net8.0\PooC_sharp.pdb
+C:\Users\darkr\Desktop\PooC_sharp\obj\Debug\net8.0\PooC_sharp.genruntimeconfig.cache
+C:\Users\darkr\Desktop\PooC_sharp\obj\Debug\net8.0\ref\PooC_sharp.dll
